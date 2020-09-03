@@ -15,6 +15,6 @@ This is the Mini Project 🚀 where I want to start making my own Blog Website u
 
 
 
-#### The Structure which I will follow (Ceredits Flask Documentation)
+#### The Structure which I will follow (Credits Flask Documentation)
 
 ![](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1599165927/Flask%20Blog%20Website/The%20Flask%20Website%20Structure%20Which%20I%20will%20follow.png)

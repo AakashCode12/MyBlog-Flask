@@ -1,7 +1,0 @@
-      py -3 -m venv venv
-      cd venv
-      cd scripts
-      activate
-      cd ../
-      cd ../
-      pip install flask flask-sqlalchemy

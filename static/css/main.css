@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    
+}
+*::selection {
+    color: rgb(26, 32, 18);
+    background-color: rgb(179, 255, 255);
+}
+    
